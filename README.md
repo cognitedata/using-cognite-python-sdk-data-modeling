@@ -1,4 +1,8 @@
-# Using Cognite Python SDK
+# Using Cognite Python SDK 
+
+This repo is used for the Cognite Academy course: https://learn.cognite.com/learn-to-use-the-cognite-python-sdk
+
+This gives you an introduction to the Cognite Python SDK, with examples you can run yourself. Connecting to a Cognite Academy CDF project with "world-population-data", but also gives you the experience of how to write data into CDF. If there are any questions, please reach out on Cognite Hub: https://hub.cognite.com/groups/academy-discussions-175
 
 A step-by-step guide with practical examples and code for using the Cognite Python SDK.
 
