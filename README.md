@@ -18,8 +18,7 @@ https://cognite-docs.readthedocs-hosted.com/projects/cognite-sdk-python/en/lates
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/cognitedata/using-cognite-python-sdk.git
-cd using-cognite-python-sdk
+git clone https://github.com/cognitedata/using-cognite-python-sdk-data-modeling
 ```
 
 ### 2. Install dependencies
