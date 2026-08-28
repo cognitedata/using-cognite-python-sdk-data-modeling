@@ -9,6 +9,7 @@ package-mode = false
 python = "^3.11"
 cognite-sdk = {extras = ["pandas"], version = "^8.0.0rc1", allow-prereleases = true}
 notebook = "^7.5.3"
+matplotlib = "^3.11.1"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
